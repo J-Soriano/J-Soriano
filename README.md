@@ -8,7 +8,7 @@ A problem-solving IT professional with a passion for Cyber Security.
 My journey in my IT career has led me to develop a passion for Cyber Security. I am eager to make a transition to this field, specificalyl aiming to join a Security Operation Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards>
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,7 +20,7 @@ My journey in my IT career has led me to develop a passion for Cyber Security. I
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards>
 
 ### Network
 <div>
