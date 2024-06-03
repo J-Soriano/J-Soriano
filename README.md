@@ -3,7 +3,7 @@
 
 IT Specialist with a passion for expanding expertise in Cyber Security and Cloud technologies.
 
-## Projects
+## 👨‍💻 Projects
 <Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards>
 
 | Skill                                         | Associated Project         |
