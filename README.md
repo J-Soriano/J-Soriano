@@ -1,13 +1,9 @@
 # Hello, I'm John
 <a href="https://www.linkedin.com/in/jsorianotech/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A problem-solving IT professional with a passion for Cyber Security. 
+IT Specialist with a passion for expanding expertise in Cyber Security and Cloud technologies.
 
-## Objective
-
-My journey in my IT career has led me to develop a passion for Cyber Security. I am eager to make a transition to this field, specificalyl aiming to join a Security Operation Center (SOC) as a Tier 1 Analyst.
-
-## Skills
+## Projects
 <Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards>
 
 | Skill                                         | Associated Project         |
