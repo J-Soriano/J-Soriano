@@ -3,17 +3,12 @@
 
 IT Specialist with a passion for expanding expertise in Cyber Security and Cloud technologies.
 
-## 👨‍💻 Projects
-<Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards>
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## 👨‍💻 Projects
+
+- <b>Enterprise Home Lab (Currently in progress) </b>
+  - [Active Directory: Centralized Identity and Access Management](https://github.com/J-Soriano/ActiveDirectory)
+  - Window Server 2022, configuring Active Directory, DHCP, DNS and Routing Services. Utilized Powershell to automate user account creation for 1000+ users. Connected endpoints to our Active Directory Domain.
 
 ## Tools
 
