@@ -8,7 +8,7 @@ IT Specialist with a passion for expanding expertise in Cyber Security and Cloud
 
 - <b>Enterprise Home Lab (Currently in progress) </b>
   - [Active Directory: Centralized Identity and Access Management](https://github.com/J-Soriano/ActiveDirectory)
-  - Window Server 2022, configuring Active Directory, DHCP, DNS and Routing Services. Utilized Powershell to automate user account creation for 1000+ users. Connected endpoints to our Active Directory Domain.
+  - Window Server 2022, configuring Active Directory, DHCP, DNS and Routing Services. Utilized Powershell to automate user account creation for 100+ users. Connected endpoints to our Active Directory Domain.
 
 ## Tools
 
