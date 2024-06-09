@@ -39,6 +39,3 @@ IT Specialist with a passion for expanding expertise in Cyber Security and Cloud
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
